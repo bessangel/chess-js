@@ -1,0 +1,9 @@
+a {
+    color:red;
+    background-color: greenyellow;
+}
+
+p a {
+    background-color: inherit;
+    color: green;
+}
